@@ -1,0 +1,6 @@
+{
+  "name": "Dancing Pets: Rhythm Groove",
+  "description": "An adorable rhythm dance game where you tap along with dancing animals to groove to the beat, score combos, beat levels, and unlock new pet dance companions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
